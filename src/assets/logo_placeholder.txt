@@ -1,2 +1,0 @@
-// This file is a placeholder for the logo.
-// Please upload your SIMA LOGO.png here and rename it to logo.png or update the reference in SimaLogo.tsx.
